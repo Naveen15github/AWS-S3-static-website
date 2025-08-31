@@ -10,7 +10,7 @@ It covers the setup of an S3 bucket, configuration for static hosting, bucket po
 ## 📸 Screenshots
 
 **S3 Bucket Setup**  
-![S3 Setup](screenshots/s3-setup.png)  
+![S3 Setup](Screenshot (74).png)  
 
 **Bucket Policy Configuration**  
 ![Bucket Policy](screenshots/bucket-policy.png)  
