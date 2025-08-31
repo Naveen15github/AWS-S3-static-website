@@ -5,6 +5,6 @@ A project demonstrating how to host and deploy a static website using AWS S3 by 
 ![S3 Setup]()  
 
 **Bucket Policy Configuration**  
-![Bucket Policy]()
+![Bucket Policy](Screenshot (75).png)
 
 ![Homepage]()  
