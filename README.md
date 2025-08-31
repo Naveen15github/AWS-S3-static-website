@@ -14,7 +14,7 @@ It covers the setup of an S3 bucket, configuration for static hosting, bucket po
 ![S3 Setup](https://github.com/Naveen15github/AWS-S3-static-website/blob/a81d36870ccb27b3dbe5fde51e9e908d9047c7e8/Screenshot%20(75).png) 
 
 **Bucket Policy Configuration**  
-![Bucket Policy]()  
+![Bucket Policy](https://github.com/Naveen15github/AWS-S3-static-website/blob/a65cb36b060d016e4b4469dac6ff9d416fb749c1/Screenshot%20(76).png) 
 
 **Website Homepage**  
 ![Homepage](screenshots/homepage.png)
