@@ -4,7 +4,7 @@ A project demonstrating how to host and deploy a static website using AWS S3 by 
 ##  Screenshots
 
 **S3 Bucket Setup**  
-![image alt](Screenshot (74).png)  
+![image alt]((https://github.com/Naveen15github/AWS-S3-static-website/blob/main/Screenshot%20(74).png))  
 
 **Bucket Policy Configuration**  
 ![Bucket Policy](screenshots/bucket-policy.png)  
