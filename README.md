@@ -10,7 +10,6 @@ It covers the setup of an S3 bucket, configuration for static hosting, bucket po
 - Enabling the **Static Website Hosting** feature in Amazon S3.
 - Setting up **bucket policies** to allow secure public access.
 - Accessing the website via the automatically generated **S3 website endpoint**.
-- (Optional) Integration with **Route 53** for custom domain and **CloudFront** for CDN + HTTPS support.
 #### This project demonstrates how cloud platforms like **AWS** can replace traditional web servers for static website hosting, making deployment easier, scalable, and cost-efficient.
 ---
 
