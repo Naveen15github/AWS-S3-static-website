@@ -26,11 +26,11 @@ It covers the setup of an S3 bucket, configuration for static hosting, bucket po
 ---
 
 ## ✨ Skills Learned
-AWS S3 · Static Website Hosting · IAM · Cloud Deployment · Web Development
+AWS S3 · Static Website Hosting · IAM · Cloud Deployment 
 
 ---
 
 ## 🙌 Acknowledgment
-Special thanks to **[@FriendName](https://www.linkedin.com/in/friend-profile)** for helping me complete this project. 🚀
+Special thanks to **[Nensi Ravaliya](linkedin.com/in/nencyravaliya28)** for helping me complete this project. 🚀
 onstrating how to host and deploy a static website using AWS S3 by configuring bucket policies, enabling static website hosting, and making it publicly accessible. 
 
