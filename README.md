@@ -1,3 +1,36 @@
 # AWS-S3-static-website
-A project demonstrating how to host and deploy a static website using AWS S3 by configuring bucket policies, enabling static website hosting, and making it publicly accessible. 
+A project dem# 🌐 Hosting a Static Website on AWS S3
+
+## 📌 Project Overview
+This project demonstrates how to host a **static website** (HTML, CSS, JS) using **Amazon S3**.  
+It covers the setup of an S3 bucket, configuration for static hosting, bucket policies, and accessing the website via a public endpoint.
+
+---
+
+## 📸 Screenshots
+
+**S3 Bucket Setup**  
+![S3 Setup](screenshots/s3-setup.png)  
+
+**Bucket Policy Configuration**  
+![Bucket Policy](screenshots/bucket-policy.png)  
+
+**Website Homepage**  
+![Homepage](screenshots/homepage.png)
+
+---
+
+## 🔗 Live Demo
+[View Website](http://your-bucket-name.s3-website-region.amazonaws.com)
+
+---
+
+## ✨ Skills Learned
+AWS S3 · Static Website Hosting · IAM · Cloud Deployment · Web Development
+
+---
+
+## 🙌 Acknowledgment
+Special thanks to **[@FriendName](https://www.linkedin.com/in/friend-profile)** for helping me complete this project. 🚀
+onstrating how to host and deploy a static website using AWS S3 by configuring bucket policies, enabling static website hosting, and making it publicly accessible. 
 
