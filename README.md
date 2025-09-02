@@ -1,5 +1,5 @@
 # AWS-S3-static-website
-A project dem# 🌐 Hosting a Static Website on AWS S3
+ 🌐 Hosting a Static Website on AWS S3
 
 ## 📌 Project Overview
 This project demonstrates how to host a **static website** (HTML, CSS, JS) using **Amazon S3**.  
